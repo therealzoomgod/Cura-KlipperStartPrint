@@ -1,0 +1,6 @@
+*.pyproj
+*.sln
+*.odt
+.vs
+.vs/*
+*.ignore
