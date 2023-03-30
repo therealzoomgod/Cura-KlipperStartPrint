@@ -28,3 +28,5 @@ Cura 5.2
     {% set T0_standby_temp = params.T0_STANDBY_TEMP | default(0.0) | float %}
     {% set T1_standby_temp = params.T1_STANDBY_TEMP | default(0.0) | float %}
 
+
+![Screenshot](https://github.com/therealzoomgod/Cura-KlipperStartPrint/blob/main/ss.png "Screenshot")
