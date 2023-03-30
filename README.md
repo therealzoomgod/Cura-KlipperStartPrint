@@ -1,6 +1,6 @@
 # KlipperMacroArgs
 
-Cura post processing script for Klipper IDEX machines.
+Cura post processing script for Klipper IDEX machines. (May work on single extruder as well but untested)
 
 This replaces needing start gcode in slicer, you do everything in your Klipper start print macro.
 
